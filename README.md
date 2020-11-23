@@ -437,3 +437,18 @@ In terms of the screenshots of the actions and processes above, the actions and 
 Successful Completion of Subtask III on 8545 Network
 
 Successful Completion of Subtask III on Kovan Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(NB - At least 99.9999% of the original ideas for this work are from the given course materials, Instructors GS, AN, and KS, and the Tutor, Ms. LT)
