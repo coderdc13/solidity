@@ -15,7 +15,7 @@ The screenshots directly below document the completion of subtasks I and II on t
 
 
 ![text](/blob/main/Screenshot%20(2053).png)
-
+![text](/Screenshots/Screenshot%20(2053).png)
 
 
 
