@@ -14,7 +14,7 @@ The screenshots directly below document the completion of subtasks I and II on t
 
 
 
-![text](./coderdc13/solidity/Screenshot&20(2053).png)
+![text](./solidity/Screenshot&20(2053).png)
 
 
 
