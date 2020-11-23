@@ -2,7 +2,13 @@
 # Solidity Homework
 
 
-This assignment provides the opportunity for the student-author (me, Franklin Bueno) with a chance to compose and execute smart contracts in the solidity software IDE, solidity remix. There are three different contracts. The first contract is for the equal distrivution of funds. The sceond contract is for the weighted distrubtion of funds. The third contract is for the retirement plan.
+This assignment provides the opportunity for the student-author (me, Franklin Bueno) with a chance to compose and execute smart contracts in the solidity software IDE, solidity remix. There are three different contracts. The first contract is for the equal distribution of funds. The second contract is for the weighted distribution of funds. The third contract is for the retirement plan.
+
+In terms of the first contract, a deposit from one main account is to be divided evenly among three other accounts. These other accounts are listed as alpha, beta, and gamma. As an example, a deposit of 30 ETH from the main account is supposed to show 10 ETH in each of the other three entered accounts (after deployment and metamask processing).
+
+The second contract is supposed to distribute the deposit from the main account into 60%, 25%, and 15% shares. In this contract, the alpha account is supposed to receive the 60% share, the beta account is to receive 25%, and the gamma account is to receive 15%. For example, a deposit of 20 ETH from the main account is supposed to provide a distribution of 12 ETH, 5 ETH, and 3 ETH among the alpha, beta, and gamma accounts, respectively.
+
+In terms of the third contract, the agreement is supposed to determine the shares from a deferred equity plan. Shares of stock are supposed to go from one main account into an employee account. The amount of shares received is based upon the amount of time that the employee has spent with the company at the time of separation and resignation.
 
 At least for the first two exercises, the student-author was able to compile and execute the ethereum remix smart contract. The execution was recorded on ganache. At this point, the student-author is attempting to reproduce on the Kovan network.
 
