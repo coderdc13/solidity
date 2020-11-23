@@ -419,20 +419,6 @@ The screenshots directly below document the completion of subtasks I and II on t
 
 
 
-![text](/Screenshots/Screenshot%20(2159).png)
-
-
-
-
-
-
-![text](/Screenshots/Screenshot%20(2160).png)
-
-
-
-
-
-
 
 
 
