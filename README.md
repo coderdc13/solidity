@@ -436,7 +436,7 @@ The screenshots directly below document the completion of subtasks I and II on t
 
 
 
-In terms of the screenshots of the actions and processes above, the actions and processes share a pattern. There is the establishment of the kovan blockchain account, the compilation of the smart contract, the deployment of the smart contract, the exchange of ether/wei as conducted by metamask, and the verification in etherscan. Furthermore, the final transactions from the accounts were recorded on the MyCrypto application. All of these processes were recorded successfully. The false starts were also recorded.
+In terms of the screenshots of the actions and processes above, the actions and processes share a pattern. There is the establishment of the kovan blockchain account, the compilation of the smart contract, the deployment of the smart contract, the exchange of ether/wei as conducted by metamask, and the verification in etherscan. Furthermore, the final transactions from the accounts were recorded on the MyCrypto application. All of these processes were recorded successfully. The false starts were also recorded. In terms of the main ETH account, this account was address 0x31bf78837e4062a257c83d6be07055e2b13450de. Also, the address for the contract for the even distrubtion of funds was 0x26eb35ce7b50da86eaff4efb7608dc12626066c9. The address for the contract for the uneven distribution of funds was 0x985786e6cDDAC581Aa64eE24de7b1D7C15a0F6e6.
 
 
 
