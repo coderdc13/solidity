@@ -14,7 +14,7 @@ The screenshots directly below document the completion of subtasks I and II on t
 
 
 
-![text](/Screenshot (2053).png)
+![text](/Screenshot&(2053).png)
 
 
 
