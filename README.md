@@ -8,13 +8,28 @@ At least for the first two exercises, the student-author was able to compile and
 
 
 
-Subtasks I and II on 8545 Network
+Successful Completion of Subtasks I and II on 8545 Network
+
+The screenshots directly below document the completion of subtasks I and II on the local 8545 network.
 
 
 
-Subtasks I and II on Kovan Network
+![text](/Screenshot (2053).png)
 
 
-Subtask III on 8545 Network
 
-Subtask III on Kovan Network
+
+
+In terms of the screenshots of the actions and processes above, the actions and processes share a pattern. There is the establishment of the ganache test blockchain account, the compilation of the smart contract, the deployment of the smart contract, the exchange of ether/wei as conducted by metamask, and the verification in the ganache transaction ledger. All of these processes were recorded successfully  
+
+
+
+
+Successful Completion of Subtasks I and II on Kovan Network
+
+
+
+
+Successful Completion of Subtask III on 8545 Network
+
+Successful Completion of Subtask III on Kovan Network
