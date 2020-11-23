@@ -1,4 +1,4 @@
-# #olidity
+# Solidity
 # Solidity Homework
 
 
