@@ -1,0 +1,84 @@
+{
+	"compiler": {
+		"version": "0.5.0+commit.1d4f565a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "balance",
+				"outputs": [
+					{
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"constant": false,
+				"inputs": [],
+				"name": "deposit",
+				"outputs": [],
+				"payable": true,
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"name": "alpha",
+						"type": "address"
+					},
+					{
+						"name": "beta",
+						"type": "address"
+					},
+					{
+						"name": "gamma",
+						"type": "address"
+					}
+				],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"payable": true,
+				"stateMutability": "payable",
+				"type": "fallback"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"browser/artifacts/Solidity_Homework/prac_two.sol": "TieredProfitSplitter"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"browser/artifacts/Solidity_Homework/prac_two.sol": {
+			"keccak256": "0x296621c7d6665a7b83a86095a27f662e89a21bccc7ef2f37e5a32172f205510c",
+			"urls": [
+				"bzzr://94caf256908a08c01f5d0b8a6644f602380d2f641eaa448530dc05cc0a7a1683"
+			]
+		}
+	},
+	"version": 1
+}
