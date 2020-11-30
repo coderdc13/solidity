@@ -450,8 +450,6 @@ The screenshots directly below show show the successful distribution while lever
 
 
 
-
-
 ![text](/Screenshots/Screenshot%20(2244).png)
 
 
@@ -466,8 +464,8 @@ The screenshots directly below show show the successful distribution while lever
 
 
 
-
 ![text](/Screenshots/Screenshot%20(2246).png)
+
 
 
 
