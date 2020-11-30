@@ -2,6 +2,8 @@
 # Solidity Homework
 
 
+In accordance with the stipulations from the directives in the assignment, the student author (I, Franklin Bueno), was able to succeed in executing these smart contracts, both in the private 8545 network and also in the kovan network. 
+
 This assignment provides the opportunity for the student-author (me, Franklin Bueno) with a chance to compose and execute smart contracts in the solidity software IDE, solidity remix. There are three different contracts. The first contract is for the equal distribution of funds. The second contract is for the weighted distribution of funds. The third contract is for the retirement plan.
 
 In terms of the first contract, a deposit from one main account is to be divided evenly among three other accounts. These other accounts are listed as alpha, beta, and gamma. As an example, a deposit of 30 ETH from the main account is supposed to show 10 ETH in each of the other three entered accounts (after deployment and metamask processing).
@@ -441,6 +443,8 @@ In terms of the screenshots of the actions and processes above, the actions and 
 
 
 Successful Completion of Subtask III on 8545 Network
+
+
 
 Successful Completion of Subtask III on Kovan Network
 
