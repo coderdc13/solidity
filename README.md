@@ -444,6 +444,88 @@ In terms of the screenshots of the actions and processes above, the actions and 
 
 Successful Completion of Subtask III on 8545 Network
 
+The screenshots directly below show show the successful distribution while leveraging the fakenow and fastforward functions.
+
+
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(2044).png)
+
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(2045).png)
+
+
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(2046).png)
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(2047).png)
+
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(2048).png)
+
+
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(2049).png)
+
+
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(2050).png)
+
+
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(2051).png)
+
+
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(2052).png)
+
+
+
+
+
+
+
+![text](/Screenshots/Screenshot%20(2053).png)
+
+
+
+
+One may note the success of the distribution of shares by focusing on the distributed_shares call and the number to the right of the uint256: category.
 
 
 Successful Completion of Subtask III on Kovan Network
@@ -461,4 +543,4 @@ Successful Completion of Subtask III on Kovan Network
 
 
 
-(NB - At least 99.9999% of the original ideas for this work are from the given course materials, Instructors GS, AN, and KS, and the Tutor, Ms. LT)
+(NB - At least 99.9999% of the original ideas for this work are from the given course materials, Instructors GS, AN, and KS, and the Tutor, Ms. LT ... also, because of the shared subject matter between the third project of Group Two and this assignment, the student-author saw the homework material and leveraged the homework material of Group Two teammate, Mr. E___ "T___" McM___ ...)
